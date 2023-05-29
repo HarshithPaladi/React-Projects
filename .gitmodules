@@ -1,3 +1,6 @@
 [submodule "react-1"]
 	path = react-1
 	url = https://github.com/HarshithPaladi/react-1.git
+[submodule "simple-calculator"]
+	path = simple-calculator
+	url = https://github.com/HarshithPaladi/simple-calculator.git
