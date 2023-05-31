@@ -4,3 +4,6 @@
 [submodule "simple-calculator"]
 	path = simple-calculator
 	url = https://github.com/HarshithPaladi/simple-calculator.git
+[submodule "stopwatch"]
+	path = stopwatch
+	url = https://github.com/HarshithPaladi/stopwatch.git
