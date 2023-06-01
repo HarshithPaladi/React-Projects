@@ -10,3 +10,6 @@
 [submodule "cric-counter"]
 	path = cric-counter
 	url = https://github.com/HarshithPaladi/cric-counter.git
+[submodule "form-site"]
+	path = form-site
+	url = https://github.com/HarshithPaladi/react-form-site
