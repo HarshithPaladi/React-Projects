@@ -7,3 +7,6 @@
 [submodule "stopwatch"]
 	path = stopwatch
 	url = https://github.com/HarshithPaladi/stopwatch.git
+[submodule "cric-counter"]
+	path = cric-counter
+	url = https://github.com/HarshithPaladi/cric-counter.git
