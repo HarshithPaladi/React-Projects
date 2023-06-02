@@ -13,3 +13,6 @@
 [submodule "form-site"]
 	path = form-site
 	url = https://github.com/HarshithPaladi/react-form-site
+[submodule "ricknmorty"]
+	path = ricknmorty
+	url = https://github.com/HarshithPaladi/ricknmorty.git
